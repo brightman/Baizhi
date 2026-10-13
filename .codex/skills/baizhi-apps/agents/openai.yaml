@@ -1,0 +1,4 @@
+interface:
+  display_name: "Baizhi Apps"
+  short_description: "Use the Baizhi Apps CLI for data, Manifest, and H5 Hosting safely"
+  default_prompt: "Use Baizhi Apps to inspect or update an App safely."
